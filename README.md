@@ -12,3 +12,4 @@ Main Features of this APP
 4. My technical skillset
 5. Interesting experiences that I have come across with technology
 
+</br><b>UPDATE: I'm gonna hold onto to the development of this app until I get my new laptop back from service. Oh Yeah, the LCD display is broken :(  </b>
